@@ -38,16 +38,7 @@ lerna-debug.log*
 # ===================================
 # Frontend (React/Vite) Specific
 # ===================================
-frontend/dist/
-frontend/dist-ssr/
-frontend/build/
-frontend/.vite/
-frontend/.next/
-frontend/out/
 
-# Vite
-frontend/vite.config.js.timestamp-*
-frontend/vite.config.ts.timestamp-*
 
 # ===================================
 # Backend (Node.js/Express) Specific
